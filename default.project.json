@@ -1,5 +1,5 @@
 {
-  "name": "Cafe System",
+  "name": "Quarantine Roleplay 1.5",
   "tree": {
     "$className": "DataModel",
 
@@ -9,7 +9,7 @@
       },
 
       "Packages": {
-        "$path": "src/Packages"
+        "$path": "Packages"
       }
     },
 
