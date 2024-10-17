@@ -1,0 +1,8 @@
+[package]
+name = "morgzov/numberformatutil"
+version = "0.2.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
